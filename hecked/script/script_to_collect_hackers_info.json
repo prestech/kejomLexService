@@ -1,0 +1,13 @@
+
+while( 1 -ne 3)
+>> {
+>> echo "HEY HACKER YOU HAVE BEEN CAUGHT"
+>>  Start-Sleep -Seconds 5
+>>   Get-Process   >  "running_proc_on_intruder_alert_$(get-date -uformat '%Y_%m_%d_%H_%M_%S')$.txt"
+>> }
+
+>> {
+>>  echo "HEY HACKER YOU HAVE BEEN CAUGHT"
+>>  Start-Sleep -Seconds 5
+>>  netstat -on  >  "intruder_alert_$(get-date -uformat '%Y_%m_%d_%H_%M_%S')$.txt"
+>> }
