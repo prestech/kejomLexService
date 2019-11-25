@@ -12,6 +12,7 @@ public class KejomLexServiceApplication {
 	public static void main(String[] args) throws JsonProcessingException {
 		//SpringApplication.run(KejomLexServiceApplication.class, args);
 		//System.out.println("Hello World"); 
+		//DataSource.pkgLexToJsonListObj();
 		System.out.println(DataSource.pkgLexToJsonListObj()); 
 	}
 

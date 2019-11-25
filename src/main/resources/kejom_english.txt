@@ -1,4 +1,5 @@
-﻿a [á] prep. at, from, in, on, to.
+﻿[character] A
+a [á] prep. at, from, in, on, to.
 a- [à] pfx. prefix, class 6.
 a bàm [á bàm] prep. behind, outside.
 à bwen la [à bwɛ́n lā] prep. except.
@@ -45,6 +46,7 @@ asaŋ dyə [àsó dʲə́] n 6. sorghum.
 asaŋ m̀bì’ [àsó m̀ bìʔ] n 6. a species of corn cultivated in Bali (a neighbouring village).
 awəŋ [àwə́ŋ] Variant: awoŋ. n 6. hailstones, ice.
 awoŋ [àwɔ́ŋ] n. hailstones, ice.
+[character] B
 bà’ [bàʔ] Pl: ba’sə. n 9/10. stiff hill.
 bà’à [bàʔà] v. patch, carry on back (other than child).
 bam [bám] v. abstain.
@@ -164,6 +166,7 @@ byɨmə lenyù wù [bʲɨ́mə́ léɲù wù] v. admit (to a wrong).
 byɨ̀ŋ [bʲɨ̏ŋ] Pl: vəbyɨŋ. n 1/2. rainy season.
 byɨ̀ŋ [bʲɨ̀ŋ] v. stir.
 byɨ̀ŋ [bʲɨ̀ŋ] v. dirty (water).
+[character] Bv
 byɨsə [bʲɨ́sə́] v. destroy, spoil (tr).
 byɨtə [bʲɨ́tə́] v. wave (fist as a greeting).
 byʉsə [bʲʉ́sə́] v. destroy.
@@ -174,6 +177,7 @@ bvù [bvù] v. crush (tr), grind.
 bvʉ̀ [bvʉ̀] v. fail.
 bvʉ̀ [bvʉ̀] v. land, alight.
 bvʉ̀ [bvʉ̀] Pl: bvʉ̀sə́. v. carrot.
+[character] Ch
 chas [tʃás] v. despise, disdain.
 chèmə̀ [tʃèmə̀] v. choke.
 chès [tʃɛ̀s] v. pour.
@@ -219,6 +223,7 @@ chwantə [tʃwántə́] v. cut (skin with a blade).
 chwayn kəvu [tʃwán kə́vú] v. spank (child).
 chwìchwì [tʃwìtʃwì] n 1. sunlight.
 chwìchwì banə [tʃwìtʃwǐ bánə́] n 1. sunshine.
+[character] D
 dàlə [dàlə́] Pl: vədalə. n 1/2. robe (man's gown).
 deblə̀ [dɛ̂blə̀] Pl: vədeblə. n 1/2. demon, evil spirit.
 dək [də̂k] Pl: vədək. n 1/2. debt.
@@ -247,6 +252,7 @@ dyə̀f [dʲə̀f] v. be long, be tall.
 dyù [dʲù] v. go.
 dyù a jə̀’ [dʲù á dʒə̀ʔ] v. travel, go on a trip.
 dyùsə̀ [dʲùsə̀] v. take (away), carry away.
+[character] Dz
 dzàŋ [dzàŋ] Pl: dzaŋsə. n 9/10. palm nut.
 dzàŋ [dzàŋ] v. call (s.o.), invite.
 dzàŋ [dzàŋ] v. read.
@@ -256,6 +262,7 @@ dzas [dzás] v. be lost, become crazy.
 dzə̀m [dzə̀m] Pl: dzəmsə. n 9/10. back.
 dzɨ̀m [dzɨ̀m] v. chase, drive away.
 dzɨ̀mtə̀ [dzɨ̀mtə̀] v. follow.
+[character] ə
 ə [ə́] con. ncl concord, class 3, class 5, class 6, class 8.
 ə [ə́] am. of, class 3, class 5, class 6, class 8.
 ə- [ə̀] pfx. prefix, class 3, class 5, class 8.
@@ -498,7 +505,8 @@ dzɨ̀mtə̀ [dzɨ̀mtə̀] v. follow.
 əzhʉ̀tə̀ [ə̀ʒʉ̀tə̀] n 3. rest.
 əzhwin [ə̀ʒwín] Pl: azhwin. n 5/6. breast.
 əzhwin ə nyàm [ə̀ʒwí ɲȁm] n 3. milk.
-əzhwin ə nyàm [ə̀ʒwí ɲȁm] Pl: azhwi nyam. n 3/6. udder. 
+əzhwin ə nyàm [ə̀ʒwí ɲȁm] Pl: azhwi nyam. n 3/6. udder.
+[character] F
 fa [fá] prep. from.
 fa’ [fáʔ] v. shave, pin.
 fàf [fàf] v. shorten, reduce, decrease, subtract, take away.
@@ -639,6 +647,7 @@ fyì [fʲȉ] Pl: fyisə. n 9/10. hernia.
 fyì [fʲȉ] Pl: fyisə. n 9/10. kidney.
 fyi ə shi’i [fʲǐ ʃíʔí] Pl: fyisə shi’i sə. n 9/10. hernia.
 fyɨ̀f [fʲɨ̀f] v. become blind.
+[character] G
 gà’ [ɡàʔ] v. say, speak, talk.
 gà’ kùghòŋ [ɡàʔ kùɣɔ̀ŋ] v. gossip.
 galìk [ɡálìk] n. garlic.
@@ -675,6 +684,7 @@ gyàmtə̀ [ɡʲàmtə̀] v. help.
 gyè [ɡʲè] v. carry on head.
 gyegye [ɡʲéɡʲé] Pl: gyegyesə. n 9/10. beard.
 gyenmə [ɡʲénmə́] v. childish, be foolish.
+[character] Gh
 gha’ [ɣáʔ] v. hold, catch (object in air).
 gha’ [ɣáʔ] v. take.
 gha’ ətyɨm [ɣáʔə́ tʲɨ́m] v. calm (oneself).
@@ -699,7 +709,10 @@ ghoŋtə [ɣɔ́ŋtə́] v. sneak.
 gho’sə [ɣɔ́ʔsə́] v. enlarge.
 gho’sə [ɣɔ́ʔsə́] v. bless, honour, praise (someone).
 ghʉ [ɣʉ́] v. put, place, set.
+[character] I
 ì [ì] tm. past tense (rec, today).
+[character] ɨ̀
+[character] J
 jàkas [dʒàkás] Pl: vəjakas. n 1/2. donkey.
 jàŋ [dʒàŋ] v. skip.
 jè’ [dʒɛ̀ʔ] v. walk.
@@ -710,6 +723,8 @@ jɨ̀ŋ ə ku [dʒɨ̀ŋ ə́ kū] n 9. famine.
 jo’ [dʒɔ́ʔ] v. shake (tr).
 jò’ [dʒɔ̀ʔ] adv. no.
 jòm [dʒɔ̀m] Pl: jomsə. n 9/10. dream, vision (supernatural).
+[character] ’
+[character] K
 ka’ [káʔ] v. go round, detour.
 ka’ [káʔ] v. surround.
 kà’ [kàʔ] num. four.
@@ -1110,6 +1125,7 @@ kyepfèn [kʲépfèn] n ? day of week (1st).
 kyesə [kʲésə́] n. coal.
 kyezhɨŋ [kʲéʒɨ́ŋ] n ? day of week (4th).
 kyi’i [kʲíʔí] v. have, possess, get, obtain.
+[character] L
 la [lá] conj. that.
 là’ [làʔ] v. trap.
 là’à [làʔà] v. announce.
@@ -1207,6 +1223,7 @@ lyomsə [lʲɔ́msə́] v. give pain, hurt.
 lyomsə [lʲɔ́msə́] v. wound (animal).
 lyòmtə̀ [lʲɔ̀mtə̀] v. keep, save, store up.
 lyʉ [lʲʉ́] v. vomit.
+[character] M
 m̀ [m̀ ] tm. past tense (distant).
 mà [mȁ] pro subj. I.
 mà’à [màʔà] v. throw away; get rid of.
@@ -1340,6 +1357,7 @@ myèsə̀ ǹtaŋ [mjèsə̀ ǹtáŋ] v. resolve, settle (dispute).
 myètə̀ [mjètə̀] v. finish, complete.
 myə̀’ [mjə̀ʔ] v. wink, be sleepy, look (at someone with anger).
 myì’ [mjìʔ] v. wink.
+[character] N
 ǹ [ǹ] tm. past tense (distant).
 nàmwì’ [nàmwìʔ] n 1? goiter.
 nàn [nàn] Variant: nayn. v. be happy, be joyful.
@@ -1516,6 +1534,7 @@ nə̀ntʉ’ʉ [nə̀ntʉ́ʔʉ́] n 1? night.
 ǹtsɨŋ [ǹtsɨ́ŋ] Pl: ntsɨŋsə. n 9/10. footstep.
 ǹtsɨ̀ŋ [ǹtsɨ̀ŋ] Pl: ntsɨŋsə. n 9/10. guide, guard.
 ǹtsɨ̀ŋ ǹgə̀ŋ Nyìngòŋ [ǹtsɨ̀ ŋ̀ɡə̀ ɲìŋɡɔ̀ŋ] Pl: ntsɨŋsə ngə nyingoŋ. n 9/10. angel.
+[character] Ny
 ǹywè [ɲ̀wè] v. have another child before the former one is weaned.
 ǹzen [ǹzɛ́n] Pl: nzensə. n 9/10. buyer.
 nyàm [ɲàm] Pl: nyamsə. n 9/10. animal, muscle, meat.
@@ -1547,6 +1566,7 @@ nyù’ [ɲùʔ] v. roast over fire, burn, e.g., incense, blaze.
 nyù’tə̀ [ɲùʔtə̀] v. set fire to bushes or groups of objects.
 nyʉ [ɲʉ́] v. drink.
 nyʉmlə [ɲʉ́mlə́] v. smile.
+[character] Ŋ
 ŋ̀ [ŋ̀] tm. past tense (distant).
 ŋam [ŋám] Pl: vəŋam. n 1/2. tarantula.
 ŋam [ŋám] v. pinch.
@@ -1567,6 +1587,8 @@ nyʉmlə [ɲʉ́mlə́] v. smile.
 ŋ̀wò’ [ŋ̀wɔ̀ʔ] v. be bright, be clean.
 ŋ̀wʉ̀’ [ŋ̀wʉ̀ʔ] v. roast.
 ŋ̀wʉ’mə [ŋ̀wʉ́ʔmə́] v. sit.
+[character] O
+[character] Pf
 pfè [pfè] v. cook.
 pfè ǹtòn [pfè ǹtɔ̀n] Variant: pfe ntoyn. v. prepare (to cook food).
 pfè ǹtòyn [pfè ǹtɔ̀jn] v. prepare (to cook food).
@@ -1582,6 +1604,7 @@ pfi’ asoŋ [pfíʔ àsɔ́ŋ] v. gnaw.
 pfʉ [pfʉ́] v. die, be dead. pfʉ bòm [pfʉ́ bɔ̀m] v. intercede, mediate.
 pfʉtə [pfʉ́tə́] v. gather, heap up.
 pfwòmə̀ [pfwòmə̀] v. burn (wood).
+[character] S
 sa’ [sáʔ] v. skip.
 sam [sám] v. move away, migrate.
 sàm [sàm] v. swim.
@@ -1644,6 +1667,7 @@ sù’ [sȕʔ] Pl: vəsu’. n 1/2. bottle.
 sù’ [sùʔ] v. indicate, point (as with the finger).
 sugyè’ [súɡʲɛ̀ʔ] Pl: vəsugye’. n 1/2. soldier.
 sutə [sútə́] adv. until.
+[character] Sh
 she’kə [ʃéʔkə́] v. disapprove.
 shen [ʃɛ́n] v. take off energetically.
 shensə [ʃɛ́nsə́] v. chase.
@@ -1699,6 +1723,7 @@ shyè’ à wì’ [ʃʲɛ̀ʔ à wìʔ] v. serve.
 shyè’ əsɨm [ʃʲɛ́ʔ ə́sɨ́m] v. cultivate, farm.
 shyə [ʃʲə́] v. slaughter, cut.
 shyəŋ [ʃʲə́ŋ] v. predict.
+[character] T
 ta’ [táʔ] num. three.
 ta’ [táʔ] v. break (firewood).
 ta’ [táʔ] v. reward (gift).
@@ -1807,6 +1832,7 @@ tyin kə̀nyʉ̀ [tʲín kə́ɲʉ̀] v. decide.
 tyinsə [tʲínsə́] v. hurt a wound.
 tyintə [tʲíntə́] v. cut into pieces.
 tyuŋ [tʲúŋ] v. dig, harvest, dig up (yams).
+[character] Ts
 tsam [tsám] v. chew.
 tsàm [tsàm] Pl: vətsàm. n 1/2. kitchen barn (counter).
 tsàŋ [tsàŋ] v. spread out (maize) (tr).
@@ -1836,6 +1862,9 @@ tsu’tə [tsúʔtə́] v. uproot.
 tsʉf [tsʉ́f] v. carve.
 tsʉf [tsʉ́f] v. take fire.
 tsʉf [tsʉ́f] v. peck (tr).
+[character] U
+[character] ʉ
+[character] V
 vas [vás] n 1. surety.
 və [və́] con. ncl concord, class 2.
 və [və́] am. of, class 2.
@@ -1847,6 +1876,7 @@ və̀wenə [və̀wénə́] pro subj. they (human).
 vì [vì] v. come.
 vi’ və̀ tsèm [víʔ və̀ tsɛ̀m] pro indef. everybody.
 vìsə̀ [vìsə̀] v. bring.
+[character] W
 wam [wám] v. lie.
 wàn [wàn] Variant: wàyn. Pl: vunə. n 1/2. child, son, daughter.
 wàn ə bwa’ [wǎ bwáʔ] Variant: wàyn ə bwaʼ. Pl: vunə və bwa’ və. n 1/2. baby.
@@ -1919,6 +1949,7 @@ wùwì lam [wùwì lám] Pl: kyi lam. n 1/2. bride.
 wʉn [wʉ́n] n. facial incision(s), tattoo(s).
 wye [wjé] v. sow, plant, insert.
 wye ǹgə’ [wʲé ŋ̀ɡə́ʔ] v. punish.
+[character] Y
 yabyabsə [jábjábsə́] n 10. chaff, rubbish.
 yen [jɛ́n] v. see, notice, find.
 yen ǹgə’ [jɛ́ ŋ̀ɡə́ʔ] v. suffer.
@@ -1926,6 +1957,7 @@ yensə [jɛ́nsə́] v. initiate.
 yès [jɛ̀s] pro obj. us.
 yì [jì] pro demons. that (man).
 yuwù [jûwù] pro subj. we (1st + 2nd person singular).
+[character] Z
 zaf [záf] v. feel pain, hurt (intr).
 zaʼa [záʔá] v. arrive.
 zaʼa [záʔá] v. skip.
@@ -1958,6 +1990,7 @@ zòyn [zɔ̀jn] adv. yesterday.
 zu’ [zúʔ] v. polish.
 zu’ mə̀zhi’ [zúʔ mə̀ʒíʔ] v. apply (ointment), besmear.
 zʉ̀mə̀ [zʉ̀mə̀] v. peel.
+[character] Zh
 zhès [ʒɛ̀s] v. sweep.
 zhə̀’ wì’ [ʒə̀ʔ wìʔ] v. accuse.
 zhə’tə [ʒə́ʔtə́] v. lean against (intr), rely.

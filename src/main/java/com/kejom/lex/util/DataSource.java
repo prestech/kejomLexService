@@ -4,11 +4,13 @@ import java.io.File;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Scanner;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.kejom.lex.model.Lexicon;
+import com.kejom.lex.model.LexiconGroupedByAlpha;
 
 /******************************************************************************
  * This class is an implementation of the SQLITE database resources through
@@ -30,7 +32,7 @@ public class DataSource {
 	 * @return
 	 */
 	private static Lexicon extractLexiconTokens(String lineOfData) {
-
+		
 		int index = 0;
 		char charAtIndex = lineOfData.charAt(index);
 		String variantPluralPartOfSpeech[] = new String[6];
@@ -136,7 +138,8 @@ public class DataSource {
 
 		return lexicon;
 	}// extractLexiconTokens() Ends
-
+	
+	
 	/************************************************************
 	 * This function reads the lexicon data from the text file, located in the raw
 	 * folder, and rights it to the SQLITE data base.
@@ -147,15 +150,45 @@ public class DataSource {
 	 */
 	public static String pkgLexToJsonListObj() throws JsonProcessingException {
 
-		HashMap<String,Lexicon> listOfLex = new HashMap<>();
-		
+		List<LexiconGroupedByAlpha> listOfGroupedLex = new ArrayList<>();
+		List<Lexicon> listOfLex = new ArrayList<>();
 		InputStream inputStream = new DataSource().getClass().getClassLoader().getResourceAsStream("kejom_english.txt");
 		
 		Scanner scanner  = new Scanner(inputStream);
+		String letterOfAlphabet = ""; 
+		String lineOfData; 
+		LexiconGroupedByAlpha lexiconGroupedByAlpha; 
+		
 		int lexId = 0; 
+		int iterations = 0;
+		
 		while (scanner.hasNextLine()) {
+			
+			lineOfData = scanner.nextLine();
+			
+			//Check if this is an alphabetic character 
+			if (lineOfData.toLowerCase().contains("[character]") == true) {
 
-			Lexicon lexicon = extractLexiconTokens(scanner.nextLine());
+				if(iterations > 0) {
+					listOfGroupedLex.get((iterations-1)).setListOfLexicon(listOfLex);
+				}
+				
+				letterOfAlphabet = lineOfData.split(" ")[1];
+
+				System.out.println("letterOfAlpabet: " + letterOfAlphabet + " iterations:" + iterations);
+
+				lexiconGroupedByAlpha = new LexiconGroupedByAlpha(letterOfAlphabet);
+
+				listOfGroupedLex.add(lexiconGroupedByAlpha);
+
+				listOfLex = new ArrayList<>();
+
+				++iterations;
+
+				continue;
+			}
+
+			Lexicon lexicon = extractLexiconTokens(lineOfData);
 
 			lexicon.setLexiconId(lexId);
 			
@@ -163,15 +196,17 @@ public class DataSource {
 				lexicon.setEnglishWord(lexicon.getEnglishWord().substring(1));
 			} // if Ends
 
-			listOfLex.put(lexicon.getLexiconId()+"", lexicon);
+			listOfLex.add(lexicon);
 			
 			lexId++;
 			
 		} // while() Ends
 		
+		listOfGroupedLex.get((iterations-1)).setListOfLexicon(listOfLex);
+		
 		//System.out.print(listOfLex);
 		
-		String value = new ObjectMapper().writeValueAsString(listOfLex);
+		String value = new ObjectMapper().writeValueAsString(listOfGroupedLex);
 		
 		return value;
 
