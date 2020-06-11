@@ -10,7 +10,7 @@ pipeline {
     stage('Build') {
       steps {
         sh '''ls -l
-./mvnw clean install
+./mvnw compile
 '''
       }
     }
