@@ -3,7 +3,9 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        sh './mvnw'
+        sh '''whoami 
+ls -la 
+./mvnw'''
       }
     }
 
