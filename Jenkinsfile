@@ -3,9 +3,8 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        sh '''whoami
-ls -la 
-./mvnw'''
+        sh '''cd ../
+ls -l'''
       }
     }
 
