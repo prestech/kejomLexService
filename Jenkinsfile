@@ -9,15 +9,14 @@ pipeline {
 
     stage('Build') {
       steps {
-        sh '''ls -l
-./mvnw compile
+        sh '''./mvnw compile
 '''
       }
     }
 
     stage('test') {
       steps {
-        echo 'running sonar cube '
+        sh './mvnw test'
       }
     }
 
