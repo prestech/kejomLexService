@@ -3,8 +3,7 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        sh '''cd ../
-ls -l'''
+        sh './mvnw clean'
       }
     }
 
