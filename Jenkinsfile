@@ -18,8 +18,7 @@ pipeline {
       steps {
         sh '''./mvnw test
 
-ls -R
-'''
+ls -R ./target'''
         nunit(healthScaleFactor: 1, keepJUnitReports: true, testResultsPattern: 'target/*/*.xml')
       }
     }
