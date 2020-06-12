@@ -19,7 +19,7 @@ pipeline {
         sh '''./mvnw test
 
 ./mvnw surefire-report:report'''
-        nunit(healthScaleFactor: 1, keepJUnitReports: true, testResultsPattern: './target/surefire-reports/*.xml', debug: true)
+        nunit(healthScaleFactor: 1, keepJUnitReports: true, testResultsPattern: './target/**/*.html', debug: true)
       }
     }
 
