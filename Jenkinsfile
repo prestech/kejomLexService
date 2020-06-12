@@ -16,7 +16,9 @@ pipeline {
 
     stage('test') {
       steps {
-        sh './mvnw test'
+        sh '''./mvnw test
+
+ls -l target'''
         nunit(healthScaleFactor: -1, keepJUnitReports: true, testResultsPattern: '**/target/surefire-reports/TEST-*.xml')
       }
     }
