@@ -1,32 +1,32 @@
 pipeline {
   agent any
   stages {
-    stage('build') {
+    stage('Pull updates from git') {
       steps {
-        sh '''ls -l
-./mvnw clean'''
+        sh 'git pull'
       }
     }
 
-    stage('Test') {
+    stage('Build') {
       steps {
-        sh 'echo running test'
+        sh '''./mvnw compile
+'''
       }
     }
 
-    stage('sornar cube') {
+    stage('test') {
       steps {
-        echo 'running sonar cube '
+        sh './mvnw test'
       }
     }
 
-    stage('dockerize') {
+    stage('sonarcube') {
       steps {
         echo 'dockerizing '
       }
     }
 
-    stage('archive artifact') {
+    stage('deploy') {
       steps {
         echo 'archiving artifact'
       }
