@@ -1,19 +1,22 @@
-package com.kejom.lex;
+package com.mothertongue;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.kejom.lex.util.DataSource;
+import com.mothertongue.util.DataSource;
 
-//@SpringBootApplication
-public class KejomLexServiceApplication {
+@SpringBootApplication
+public class NativeLexiconApplication {
 
 	public static void main(String[] args) throws JsonProcessingException {
-		//SpringApplication.run(KejomLexServiceApplication.class, args);
+		
+		SpringApplication.run(NativeLexiconApplication.class, args);
+		
 		//System.out.println("Hello World"); 
 		//DataSource.pkgLexToJsonListObj();
-		System.out.println(DataSource.pkgLexToJsonListObj()); 
+		//System.out.println(DataSource.pkgLexToJsonListObj()); 
+		
 	}
 
 }

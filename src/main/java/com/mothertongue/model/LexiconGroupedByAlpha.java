@@ -1,4 +1,4 @@
-package com.kejom.lex.model;
+package com.mothertongue.model;
 
 import java.util.ArrayList;
 import java.util.List;

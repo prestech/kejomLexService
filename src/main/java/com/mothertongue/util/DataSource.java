@@ -1,4 +1,4 @@
-package com.kejom.lex.util;
+package com.mothertongue.util;
 
 import java.io.File;
 import java.io.InputStream;
@@ -9,8 +9,8 @@ import java.util.Scanner;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.kejom.lex.model.Lexicon;
-import com.kejom.lex.model.LexiconGroupedByAlpha;
+import com.mothertongue.model.Lexicon;
+import com.mothertongue.model.LexiconGroupedByAlpha;
 
 /******************************************************************************
  * This class is an implementation of the SQLITE database resources through
