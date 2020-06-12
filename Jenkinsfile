@@ -19,7 +19,7 @@ pipeline {
         sh '''./mvnw test
 
 ls -R ./target'''
-        nunit(healthScaleFactor: 1, keepJUnitReports: true, testResultsPattern: 'target/*/*.xml')
+        nunit(healthScaleFactor: 1, keepJUnitReports: true, testResultsPattern: './target/surefire-reports/TEST-com.mothertongue.controller.test.NativeLexiconTest.xml')
       }
     }
 
