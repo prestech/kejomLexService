@@ -18,6 +18,8 @@ pipeline {
       steps {
         sh '''./mvnw test
 
+cp ./target/surefire-reports/TEST-com.mothertongue.controller.test.NativeLexiconTest.xml ./test.xml
+
 ls -R ./target'''
         nunit(healthScaleFactor: 1, testResultsPattern: './target/surefire-reports/TEST-com.mothertongue.controller.test.NativeLexiconTest.xml')
       }
