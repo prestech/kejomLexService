@@ -28,7 +28,6 @@ ls'''
     stage('sonarcube') {
       steps {
         echo 'dockerizing '
-        nunit(testResultsPattern: './target/surefire-reports/*.xml', keepJUnitReports: true)
       }
     }
 
