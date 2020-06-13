@@ -21,7 +21,7 @@ pipeline {
 cp ./target/surefire-reports/TEST-com.mothertongue.controller.test.NativeLexiconTest.xml ./test.xml
 
 ls'''
-        junit './target/surefire-reports/TEST-com.mothertongue.controller.test.NativeLexiconTest.xml'
+        junit 'target/surefire-reports/*.xml'
       }
     }
 
