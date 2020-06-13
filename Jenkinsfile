@@ -21,7 +21,6 @@ pipeline {
 cp ./target/surefire-reports/TEST-com.mothertongue.controller.test.NativeLexiconTest.xml ./test.xml
 
 ls'''
-        nunit(healthScaleFactor: 1, testResultsPattern: 'target/surefire-reports/*.xml')
         junit 'target/surefire-reports/*.xml'
       }
     }
@@ -29,6 +28,7 @@ ls'''
     stage('sonarcube') {
       steps {
         echo 'dockerizing '
+        nunit(testResultsPattern: 'target/surefire-reports/*.xml', keepJUnitReports: true)
       }
     }
 
