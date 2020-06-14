@@ -28,6 +28,7 @@ ls'''
     stage('sonarcube') {
       steps {
         echo 'dockerizing '
+        waitForQualityGate true
       }
     }
 
