@@ -28,7 +28,7 @@ ls'''
     stage('sonarcube') {
       steps {
         echo 'dockerizing '
-        sh './mvnw --settings settings.xml sonar:sonar'
+        sh './mvnw sonar:sonar --settings settings.xml'
       }
     }
 
