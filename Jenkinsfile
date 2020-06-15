@@ -16,7 +16,7 @@ pipeline {
 
     stage('test') {
       steps {
-        sh '''./mvnw test
+        sh '''./mvnw -B -Dmaven.test.failure.ignore test
 
 cp ./target/surefire-reports/TEST-com.mothertongue.controller.test.NativeLexiconTest.xml ./test.xml
 
