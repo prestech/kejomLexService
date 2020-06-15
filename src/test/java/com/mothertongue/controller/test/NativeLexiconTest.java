@@ -9,7 +9,7 @@ public class NativeLexiconTest {
 	
 	@Test
 	public void firstTest() {
-		assertThat("Not Empty").isNotEmpty();
+		assertThat("").isNotEmpty();
 		
 	}
 }
