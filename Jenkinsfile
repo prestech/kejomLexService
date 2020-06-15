@@ -28,7 +28,7 @@ ls'''
     stage('sonarcube') {
       steps {
         echo 'dockerizing '
-        waitForQualityGate true
+        sh './mvnw sonar:sonar --settings settings.xml'
       }
     }
 
