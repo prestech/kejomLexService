@@ -12,4 +12,15 @@ public class NativeLexiconTest {
 		assertThat("").isNotEmpty();
 		
 	}
+	
+
+	@Test
+	public void secondTest() {
+		assertThat("hey you").isNotEmpty();
+		
+	}
+	@Test
+	public void thirdTest() {
+		assertThat("hey you").isNotEmpty();		
+	}
 }
